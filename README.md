@@ -1,14 +1,13 @@
 ## Overview
 This repository contains core Endless Runner gameplay systems developed in Unity using C#.
 
-## Skills
-- Diagnose and fix code that compiles, but fails to perform as expected
-- Diagnose and fix common compilation errors
-- Diagnose and fix the cause of an exception
-- Control the execution of code with common logic structures
-- Compose scripts that utilize various APIs
-- Implement appropriate data types
-- Prototype new concepts
+## Features
+- Player jumps on spacebar press
+Obstacles and Background move
+Obstacles System
+- Player Animation/Vfx
+- Music
+- Sfx
 
 ## Tools
 - Unity Engine
